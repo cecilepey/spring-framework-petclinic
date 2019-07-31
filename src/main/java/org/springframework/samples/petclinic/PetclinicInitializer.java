@@ -25,9 +25,9 @@ import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.web.servlet.support.AbstractDispatcherServletInitializer;
 
 /**
- * Modification de la doc ! In Servlet 3.0+ environments, this class replaces
- * the traditional {@code web.xml}-based approach in order to configure the
- * {@link ServletContext} programmatically.
+ * encore une fois Modification de la doc ! In Servlet 3.0+ environments, this
+ * class replaces the traditional {@code web.xml}-based approach in order to
+ * configure the {@link ServletContext} programmatically.
  * <p/>
  * Create the Spring "<strong>root</strong>" application context.<br/>
  * Register a {@link DispatcherServlet} in the servlet context.<br/>
